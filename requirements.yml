@@ -1,0 +1,9 @@
+- src: https://github.com/zzet/ansible-rbenv-role
+  path: roles/
+  name: rbenv
+- src: https://github.com/zenoamaro/ansible-postgresql
+  path: roles/
+  name: postgresql
+- srce: https://github.com/DavidWittman/ansible-redis.git
+  path: roles/
+  name: DavidWittman.redis
